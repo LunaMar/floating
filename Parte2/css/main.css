@@ -1,1 +1,37 @@
-/* Pon tu código css aqui */
+.box1 {
+
+padding-top:12px;
+padding-left:10px;
+padding-bottom:12px;
+padding-right:10px ;
+background: yellow; 
+width:200px;
+height:180px;
+ float: left;
+}
+
+.box2 {
+
+padding-top:12px;
+padding-left:10px;
+padding-bottom:12px;
+padding-right:10px ;
+background: blue; 
+width:200px;
+height:180px;
+float: left;
+}
+
+
+.box3 {
+	
+padding-top:12px;
+padding-left:10px;
+padding-bottom:12px;
+padding-right:10px ;
+background: fuchsia; 
+width:200px;
+height:180px;
+display:inline-block;
+ float: left;
+}
